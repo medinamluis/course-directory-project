@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medinamluis/course-directory-project/static/css/main.cce71042.css",
+    "main.js": "/medinamluis/course-directory-project/static/js/main.a8d2fe9c.js",
+    "index.html": "/medinamluis/course-directory-project/index.html",
+    "main.cce71042.css.map": "/medinamluis/course-directory-project/static/css/main.cce71042.css.map",
+    "main.a8d2fe9c.js.map": "/medinamluis/course-directory-project/static/js/main.a8d2fe9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce71042.css",
+    "static/js/main.a8d2fe9c.js"
+  ]
+}
